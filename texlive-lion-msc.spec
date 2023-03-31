@@ -1,6 +1,6 @@
 Name:		texlive-lion-msc
 Version:	55415
-Release:	1
+Release:	2
 Summary:	LaTeX class for B.Sc. and M.Sc. reports at Leiden Institute of Physics (LION)
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lion-msc
