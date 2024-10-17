@@ -3,7 +3,7 @@ Version:	55415
 Release:	2
 Summary:	LaTeX class for B.Sc. and M.Sc. reports at Leiden Institute of Physics (LION)
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/lion-msc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/lion-msc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lion-msc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/lion-msc.doc.r%{version}.tar.xz
